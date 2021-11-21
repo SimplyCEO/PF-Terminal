@@ -1,0 +1,5 @@
+Manifest-Version: 0.0.1
+Created-By: OpenJDK 1.8.0_292
+Built-By: KanuX-14
+Main-Class: Main
+
